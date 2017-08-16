@@ -1,5 +1,3 @@
-'use strict';
-
 function remove(str, num){
   while (num > 0) {
     str = str.replace('!', '');
